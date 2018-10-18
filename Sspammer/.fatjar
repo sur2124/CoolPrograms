@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Oct 09 11:53:02 EDT 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Suraj\\Fun_Programs\\Sspammer\\Sspammer.jar
+manifest.mergeall=true
+manifest.mainclass=gui.Gui
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
